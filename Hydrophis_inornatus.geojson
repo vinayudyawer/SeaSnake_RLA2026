@@ -3,6 +3,6 @@
 "name": "Hydrophis_inornatus",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "species": "Hydrophis inornatus", "EOO_km2_prop": null, "AOO_km2_prop": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0, 0.0 ], [ 0.0, 0.0 ], [ 0.0, 0.0 ], [ 0.0, 0.0 ] ] ] } }
+{ "type": "Feature", "properties": { "species": "Hydrophis inornatus", "EOO_km2": null, "AOO_km2": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.0, 0.0 ], [ 0.0, 0.0 ], [ 0.0, 0.0 ], [ 0.0, 0.0 ] ] ] } }
 ]
 }
